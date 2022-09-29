@@ -62,3 +62,4 @@ Ex:
 ## 0x02. AirBnB clone - MySQL
 
 ### 0. 0. Fork me if you can!
+Mary Okumbe and Ronny made updates
